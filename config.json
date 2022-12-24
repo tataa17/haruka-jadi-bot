@@ -1,0 +1,24 @@
+{
+    "ownerNumber": ["6281342342689@s.whatsapp.net","6285240778548@s.whatsapp.net"],
+    "ownerName": "ᴹᴿ᭄ Ancha.Andhi ×፝֟͜×",
+    "instagram" : "bit.ly/HaloMotion",
+    "botName": "Haruka-Mdོ ",
+    "footer": "bit.ly/HaloMotion",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./lol.jpg",
+    "BotKey": "fMwuIKjI",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": true,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": false,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
